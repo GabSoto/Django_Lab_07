@@ -8,3 +8,6 @@ class CEO(models.Model):
 class companies(models.Model):
     name = models.CharField(max_length=40)
     ceo = models.ForeignKey(CEO, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.name
