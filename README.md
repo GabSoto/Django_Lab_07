@@ -102,8 +102,8 @@
 
 ## Ejercicios Propuestos
 
-<a href="https://flip.com/s/q9Ky6GHBs9jF"><span style="color:pink;">Video de explicación</span></a>
-[<img src="https://images.prismic.io/lbpsedtech/3db6958f-6434-4355-922c-4cc17f86fc25_FlipLogo.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&rect=0%2C0%2C512%2C512&w=512&h=512" alt="Flip" width="22" height="22">](https://flip.com/s/q9Ky6GHBs9jF): https://flip.com/s/q9Ky6GHBs9jF<br>
+<span style="color:pink;">Video de explicación</span></a>
+<img src="https://images.prismic.io/lbpsedtech/3db6958f-6434-4355-922c-4cc17f86fc25_FlipLogo.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&rect=0%2C0%2C512%2C512&w=512&h=512" alt="Flip" width="22" height="22">: https://flip.com/s/ojZZrwLDo7Gg<br>
 Repositorio GitHub: https://github.com/GabSoto/Django_Lab_07<br>
 Enlace del Doc: https://docs.google.com/document/d/1tuQ7nG0FXjchTA4L8v_rzN6VUfkt7g4w/edit?usp=sharing&ouid=108362284043730422700&rtpof=true&sd=true
 
