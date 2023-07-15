@@ -17,8 +17,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from MySite.views import GeneratePdf
+from Sen_emails.views import index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('pdf/', GeneratePdf.as_view()),
+    path('send/', index)
 ]
